@@ -1,10 +1,9 @@
 ### Oiii! Eu sou a Sarah Neri
 
-- 💗 Graduando Ánalise e desenvolvimento de sistemas 
-- 💕 Estudando Computação Forense e Cybersecurity
+- 💗 Graduando Segurança da Informação
+- 💕 AnalistaEngenharia de Software Juníor at @itaú
 - 💞 Pronouns: Ela/Dela
-- ⚡ Fun fact: Especializada em Front-End
-
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
