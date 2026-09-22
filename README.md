@@ -1,6 +1,6 @@
 ### Oiii! Eu sou a Sarah Neri
 
-- 💗 Graduando Segurança da Informação
+- 💗 Dev Front-End
 - 💕 Engenheira de Software Juníor at @itaú
 - 💞 Pronouns: Ela/Dela
   
